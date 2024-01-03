@@ -1,2 +1,4 @@
 # Multiple-Linear-Regression-Car-Prices-
-Predicting car prices the Multiple Linear Regression technique and sklearn LinearRegression model.
+Predicting car prices Multiple Linear Regression and sklearn LinearRegression model.
+
+Dataset source: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction
