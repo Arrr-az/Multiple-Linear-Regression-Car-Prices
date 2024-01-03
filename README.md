@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression-Car-Prices-
+# Multiple-Linear-Regression-Car-Prices
 Predicting car prices using Multiple Linear Regression and sklearn LinearRegression model.
 
 Challenges faced:
